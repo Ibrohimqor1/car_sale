@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    background: #1f1b2d;
+
+}
+
+nav{
+    background: #1f1b2d;
+    color: #fff;
+    line-height: 30px;
+}
+.home_nav_logo{
+  
+    color: #fff;
+  
+    font-size: 25px;
+}
+header{
+    width: 100%;
+   
+    background: #1f1b2d;
+}
+.navbar-brand{
+    font-size: 30px !important;
+}
+.navbar a{
+    color: #fff;
+   
+}
+.home_nav_span{
+    font-size: 45px !important;
+    color: #4b25d5;
+}
+.navbar a:hover{
+    color: #4b25d5;
+}
+section{
+    width: 100%;
+}
+.home_header_2rasm{
+    margin-top: -350px;
+}
+.home_section_cars{
+    background: #1f1b2d;
+    width: 100% !important;
+    height: 89vh;
+}
+.home_section_cards{
+    width: max-content;
+    height: max-content;
+}
+.card-body{
+    background-color: #fff;
+
+}
+.card{
+    -webkit-box-shadow: 28px 18px 5px -5px rgba(34, 60, 80, 0.6);
+-moz-box-shadow: 28px 18px 5px -5px rgba(34, 60, 80, 0.6);
+box-shadow: 28px 18px 5px -5px rgba(34, 60, 80, 0.6);
+}
+.card-title{
+    background-color: #fff;
+}
+.card-text{
+    background-color: #fff;
+}
+footer{
+    bottom: 0;
+
+}
+.card{
+    margin-bottom:25px;
+}
+.carousel{
+    width: 100%;
+    height: max-content;
+    justify-content: center;
+    
+}
+section{
+    width: 100%;
+    height: max-content;
+}
